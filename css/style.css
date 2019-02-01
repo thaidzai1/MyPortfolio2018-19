@@ -179,8 +179,8 @@
     color:white;
 }
 
-.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover{
-    color:red;
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li:hover{
+    transform: scale(0.8);
 }
 
 .navbar-inverse .navbar-nav{
@@ -896,6 +896,7 @@
 
 .project-item img{
     width:100%;
+    height: 250px;
 }
 
 .project-detail p{
