@@ -143,7 +143,7 @@ function MySkillRun(){
   if(myskill_position.y <= bottom_screen){
     var i = 0;
     while(i < myskill.length){
-      myskill[i].setAttribute('style','transform:translateX(40px); opacity:1;');
+      myskill[i].setAttribute('style','transform:translateX(40px); opacity:1; display: inline-block');
       // setTimeout(function() {
       //   console.log(i);
       //   i++;
