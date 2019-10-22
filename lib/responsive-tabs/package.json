@@ -38,7 +38,7 @@
     }
   ],
   "dependencies": {
-    "jquery": ">=1.7.2 <3.0.0"
+    "jquery": ">=1.7.2 <4.0.0"
   },
   "deprecated": false,
   "description": "jQuery plugin that provides responsive tab functionality. The tabs transform to an accordion when it reaches a CSS breakpoint.",
